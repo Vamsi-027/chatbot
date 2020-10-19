@@ -15,7 +15,7 @@ The main goal is to build a basic chatbot which can perform basic operations by 
     2.Stone Paper Scissor
     
 ## Block diagram
-![alt text]()
+![](https://github.com/Vamsi-027/chatbot/blob/main/python/blockd.png)
 
 ## Coding
 - We have created this chatbot by coding six modules in which each module is performed a specific task and all these modules are integrated in [Main](https://github.com/Vamsi-027/chatbot/blob/main/python/main.py) file. In which we have imported all the necessary modules required for our chatbot
