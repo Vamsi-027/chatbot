@@ -15,10 +15,10 @@ The main goal is to build a basic chatbot which can perform basic operations by 
     2.Stone Paper Scissor
 
 ## Coding
-- We have created this chatbot by coding six modules in which each module is performed a specific task and all these modules are integrated in [this](https://github.com/Vamsi-027/chatbot/blob/main/python/main.py) file. In which we have imported all the necessary modules required for our chatbot
-- In [this](https://github.com/Vamsi-027/chatbot/blob/main/python/omdb.py) file we have implemented the function to give the details of the movie entered by the user.
+- We have created this chatbot by coding six modules in which each module is performed a specific task and all these modules are integrated in [mainfile](https://github.com/Vamsi-027/chatbot/blob/main/python/main.py) file. In which we have imported all the necessary modules required for our chatbot
+- In [ombd](https://github.com/Vamsi-027/chatbot/blob/main/python/omdb.py) file we have implemented the function to give the details of the movie entered by the user.
 - In these files [HandCricket](https://github.com/Vamsi-027/chatbot/blob/main/python/handcricket.py) ,[RockPaperScissor](https://github.com/Vamsi-027/chatbot/blob/main/python/rockpaperscissor.py) we have implemented chatbot to play games the user.
-- [this](https://github.com/Vamsi-027/chatbot/blob/main/python/greetings.py) file greets the user according to the time.
+- [Greetings](https://github.com/Vamsi-027/chatbot/blob/main/python/greetings.py) file greets the user according to the time.
     
 
 ## References and Tools
