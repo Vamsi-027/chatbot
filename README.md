@@ -13,6 +13,9 @@ The main goal is to build a basic chatbot which can perform basic operations by 
 - It can also ***play some games*** with the user.The games which it can play with the user are:
     1.Hand Cricket
     2.Stone Paper Scissor
+    
+## Block diagram
+![alt text]()
 
 ## Coding
 - We have created this chatbot by coding six modules in which each module is performed a specific task and all these modules are integrated in [Main](https://github.com/Vamsi-027/chatbot/blob/main/python/main.py) file. In which we have imported all the necessary modules required for our chatbot
